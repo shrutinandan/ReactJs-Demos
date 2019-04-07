@@ -86,7 +86,7 @@ const onChange = (ev)  => {
       useEffect(() => {
       // This gets called after every render, by default
       // (the first one, and every one after that)
-        console.log("render!",rating);
+        console.log("render!syy",rating);
   
       // If you want to implement componentWillUnmount,
       // return a function from here, and React will call
